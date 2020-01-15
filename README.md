@@ -1,5 +1,5 @@
 
-
+# Passos para configurar o servidor
 1. ssh -i tutorial-cd firminodefaria@34.68.183.215
 2. npm install -g pm2 
 3. mkdir projeto-teste
@@ -26,4 +26,4 @@ npm install \
 
 ```
 
-
+# Passos para configurar o github actions
