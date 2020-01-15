@@ -4,10 +4,12 @@ var app = express();
 // respond with "hello world" when a GET request is made to the homepage
 app.get('/', function(req, res) {
   res.send(
-      `<html>
-      <body>
-        <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png" >
-      </body>
+      `
+      <html>
+        <body>
+          <h1> EKANNNSSSSS </h1>
+          <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png">
+        </body>
       </html>`)
 });
 
